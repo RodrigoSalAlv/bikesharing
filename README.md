@@ -23,12 +23,14 @@ The second one, shows the detail of hours between gender, no so much difference 
 ![image](https://user-images.githubusercontent.com/96214489/162591179-2bf28680-f565-42e3-9901-c880ef7c2ad8.png)
 This second heatmap tell us the difference of bikes usage between the customers (one-time) and the subsribers. Once Again we can see that males are the ones with the higher use of bikes along the week. And also, something curious is that the quantity of rides under the gender "unknown" increase in the one-time side, there is the leak of this information.
 
+[link to dashboard](https://public.tableau.com/views/CitibikeTripChallenge/CitibikeTripAnalysis?:language=es-ES&:display_count=n&:origin=viz_share_link)
+
 ## Summary
 The results just confirm what we expected as a behaviour of a city as New York. We could say that most users are office workers of Manhattan using the service before and after office hours. On weekends the usage is a little more stable, perhaps due to tourism and users moving around.
 
 Perhaps the chart we could include are the average of usage minutes per star time, it's a little odd to see the increase in average minutes at the middle of the night.
 ![image](https://user-images.githubusercontent.com/96214489/162592188-92e4eab7-5399-4836-8d70-6b9863bb2764.png)
 
-Also we can see that the longest trips are by the unknown genders with and average of over 35 minutes. Could we consider they are the tourist.
+Also we can see that the longest trips are by the unknown genders with and average of over 35 minutes. We could consider them as the tourist.
 ![image](https://user-images.githubusercontent.com/96214489/162592300-a50eb7f4-a871-4b45-b9f8-044435d98e2d.png)
 
